@@ -14,6 +14,7 @@ Followed the design till as far as possible.
 
   -Google Sign in whereby the user can sign in using the google accont by clicking on the button-Used Google OAuth2.0 and respected APIs for google Authentication\
   -Clicking on the Youtube Icon takes the user to Youtube\
+  -Carousel-Where the images are moving with indicators shown at the bottom, can manually switch between images\
   -The search bar opens up on clicking (although functionality is not added)
 
 **Additional Features (For Bonus)**
