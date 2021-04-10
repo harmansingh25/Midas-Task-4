@@ -25,28 +25,28 @@ Followed the design till as far as possible.
   
 **Added - References**
 
-www.w3schools.com
-www.stackoverflow.com
-www.developer.mozilla.org
-www.mdbootstrap.com
-www.codehim.com
-www.nngroup.com
-www.mockplus.com
-www.bashooka.com
-www.webflow.com
-www.codepen.io
-www.bootsnipp.com
-www.mobirise.com
-www.colorlib.com
-www.bootstrapdash.com
-www.springmerchant.com
-www.bootstrapcreative.com
-www.css-tricks.com
-www.softr.io
-www.blobs.app
-www.uicookies.com
-www.codegrepper.com
-www.console.cloud.google.com
+www.w3schools.com \
+www.stackoverflow.com \
+www.developer.mozilla.org \
+www.mdbootstrap.com \
+www.codehim.com \
+www.nngroup.com \
+www.mockplus.com \
+www.bashooka.com \
+www.webflow.com \
+www.codepen.io \
+www.bootsnipp.com \
+www.mobirise.com \
+www.colorlib.com \
+www.bootstrapdash.com \
+www.springmerchant.com \
+www.bootstrapcreative.com \
+www.css-tricks.com \
+www.softr.io \
+www.blobs.app \
+www.uicookies.com \
+www.codegrepper.com \
+www.console.cloud.google.com \
 etc
 
 
