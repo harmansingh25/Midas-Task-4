@@ -43,8 +43,8 @@ body{
 
 }
 #overa{
-	width: 1440px;
-	height: 600px;
+	width: 100%;
+	height: 70%;
 }
 p{
 	margin: 0;
