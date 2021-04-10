@@ -4,9 +4,9 @@
 
 Followed the design till as far as possible.
 
-**Final look : **
+**Final look :**
 
-  ![alt text](https://github.com/harmansingh25/Midas-Task-4/blob/[branch]/final1.png)
+  ![alt text](https://github.com/harmansingh25/Midas-Task-4/blob/main/final1.png?raw=true)
 
 
 **Functionality Added:**
