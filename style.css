@@ -308,9 +308,9 @@ input {
 #carousel-example-1z{
 
 height: 70%;
-width : 40%;
+width : 45%;
 position: absolute;
-left: 20%;
+left: 10%;
 	display: inline-block;
 
 
@@ -344,13 +344,13 @@ left: 20%;
  	background: linear-gradient(0deg, rgba(93, 107, 248, 0.8) 0%, rgba(226, 127, 203, 0.8) 100%);
   animation: morph 8s ease-in-out infinite;
   border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-	height: 60%;
-	width: 36%;
+	height: 70%;
+	width: 37%;
   transition: all 1s ease-in-out;
 	display: inline-block;
 	position: absolute;
-  top : 20%;
-  right: 10%;;
+  top : 15%;
+  right: 12%;;
 	box-shadow: 100px, 100px !important;
   display: flex;
 
