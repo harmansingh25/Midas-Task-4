@@ -1,21 +1,21 @@
 # Midas-Task-4
 
-**Website Link : https://harmansingh25.github.io/Midas-Task-4
+**Website Link : https://harmansingh25.github.io/Midas-Task-4**
 
 Followed the design till as far as possible.
 
-**Final look : 
+**Final look : **
 
-  ![alt text](https://github.com/harmansingh25/Midas-Task-4/blob/[branch]/final1.png?raw=true)
+  ![alt text](https://github.com/harmansingh25/Midas-Task-4/blob/[branch]/final1.png)
 
 
-**Functionality Added:
+**Functionality Added:**
 
   -Google Sign in whereby the user can sign in using the google accont by clicking on the button
   -Clicking on the Youtube Icon takes the user to Youtube
   -The search bar opens up on clicking (although functionality is not added)
 
-**Additional Features (For Bonus)
+**Additional Features (For Bonus)**
 
   -The user's Name and Profile image are visible at the top
   -Added Sign out functonality
