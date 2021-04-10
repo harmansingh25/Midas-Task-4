@@ -12,7 +12,7 @@ Followed the design till as far as possible.
 
 **Functionality Added:**
 
-  -Google Sign in whereby the user can sign in using the google accont by clicking on the button(Used Google OAuth2.0 and respected APIs for google Authentication) \ 
+  -Google Sign in whereby the user can sign in using the google accont by clicking on the button-Used Google OAuth2.0 and respected APIs for google Authentication\
   -Clicking on the Youtube Icon takes the user to Youtube\
   -The search bar opens up on clicking (although functionality is not added)
 
